@@ -9,7 +9,7 @@ Welcome to Lesson XXXXX
 =======================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Contents:
 
 
