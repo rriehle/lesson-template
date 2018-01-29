@@ -20,7 +20,8 @@ Introduction
 [1-3 paragraphs introducing topic(s)]
 
 
-##  Learning Objectives
+Learning Objectives
+===================
 
 Upon successful completion of this lesson, you will be able to:
 
@@ -28,17 +29,19 @@ Upon successful completion of this lesson, you will be able to:
 *
 
 
-##  New Words, Concepts or Tools
+New Words, Concepts or Tools
+============================
 
 *
 *
 
 
-##  Required Reading
+Required Reading
+================
 
 
-
-##  Optional Reading
+Optional Reading
+================
 
 
 *******
