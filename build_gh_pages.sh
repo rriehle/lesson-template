@@ -7,6 +7,6 @@ touch .nojekyll  # Make sure the repo has this file in its root, otherwise it wi
 make html
 open build/html/index.html
 git add *
-git commit -a -m "Updating presentation materials"
+git commit -a --no-edit -m "Updating presentation materials"
 git pull -s ours --no-edit
 git push
