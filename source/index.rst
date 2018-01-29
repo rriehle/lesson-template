@@ -9,13 +9,8 @@ Welcome to Lesson XXXXX
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
-
-   modules/index
-   exercises/index
-   supplemental/index
-   references/index
 
 
 ************
