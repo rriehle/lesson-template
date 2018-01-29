@@ -2,7 +2,7 @@
 
 git checkout gh-pages
 rm -rf build/*
-git merge --commit master
+git merge --commit --no-edit master
 touch .nojekyll  # Make sure the repo has this file in its root, otherwise it will not render on github.io
 make html
 open build/html/index.html
