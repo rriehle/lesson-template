@@ -121,8 +121,8 @@ html_static_path = ['_static']
 html_sidebars = {
     '**': [
         'about.html',
-        'navigation.html',
-        'relations.html',
+        'localtoc.html',
+        # 'navigation.html',
         'searchbox.html',
         'relations.html',  # needs 'show_related': True theme option to display
         'donate.html',
