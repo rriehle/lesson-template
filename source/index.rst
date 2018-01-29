@@ -28,8 +28,8 @@ Upon successful completion of this lesson, you will be able to:
 *
 
 
-New Words, Concepts or Tools
-============================
+New Words or Concepts
+=====================
 
 *
 *
