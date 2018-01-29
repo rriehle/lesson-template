@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
+=======================================
 Welcome to Lesson XXXXX
 =======================================
 
@@ -16,7 +18,9 @@ Welcome to Lesson XXXXX
    references/index
 
 
-##  Introduction
+************
+Introduction
+************
 
 [1-3 paragraphs introducing topic(s)]
 
@@ -41,6 +45,25 @@ Upon successful completion of this lesson, you will be able to:
 
 ##  Optional Reading
 
+
+*******
+Content
+*******
+
+
+****
+Quiz
+****
+
+
+********
+Activity
+********
+
+
+**********
+Assignment
+**********
 
 
 Indices and tables
