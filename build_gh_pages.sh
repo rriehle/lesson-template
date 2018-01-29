@@ -1,0 +1,11 @@
+#!/bin/sh
+
+git checkout gh-pages
+rm -rf build/*
+git merge master
+make html
+touch .nojekyll  # Make sure the repo has this file in its root, otherwise it will not render on github.io
+git add *
+git commit -a -m "Updating presentation materials"
+git pull -s ours --no-edit
+git push
