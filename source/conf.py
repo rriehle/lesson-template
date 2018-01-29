@@ -21,6 +21,8 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+from datetime import date
+
 
 # -- General configuration ------------------------------------------------
 
@@ -58,14 +60,16 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Lesson Plan'
-copyright = '2018, TBD'
 
 author = 'TBD'
 
 copyright = (
-    "2018, University of Washington, {}. "
-    "Creative Commons Attribution-ShareAlike 3.0 license".format(author)
-).format(author)
+    "{}, University of Washington, {}. "
+    "Creative Commons Attribution-ShareAlike 3.0 license".format(
+        date.today().year,
+        author,
+    )
+)
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
