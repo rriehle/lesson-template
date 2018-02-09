@@ -61,11 +61,10 @@ master_doc = 'index'
 # General information about the project.
 project = 'Lesson Plan'
 
-author = 'TBD'
+author = 'Rick Riehle'
 
 copyright = (
-    "{}, University of Washington, {}. "
-    "Creative Commons Attribution-ShareAlike 3.0 license".format(
+    "{}, University of Washington, {}. Creative Commons Attribution-ShareAlike 3.0 license".format(
         date.today().year,
         author,
     )
@@ -193,7 +192,6 @@ texinfo_documents = [
 ]
 
 
-
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
@@ -213,5 +211,3 @@ epub_copyright = copyright
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
-
-
